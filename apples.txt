@@ -1,2 +1,7 @@
-apples
+<<<<<<< HEAD
+granny smith
 apples 2
+=======
+apples...yay!
+apples 3
+>>>>>>> 02fd1ea1b5b680c7f1e5894880e48515fc9f9413
